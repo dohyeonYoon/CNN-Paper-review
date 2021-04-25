@@ -1,1 +1,1 @@
-# CNN Architecture 구현 
+# CNN Architecture google colab으로 구현
