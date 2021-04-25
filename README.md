@@ -1,1 +1,1 @@
-# CNN Architecture Paper 구현 
+# CNN Architecture 구현 
